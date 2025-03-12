@@ -1,0 +1,8 @@
+clinic\Person.class
+clinic\Treatment.class
+com\mycompany\boost_physio_clinic\Boost_Physio_Clinic.class
+clinic\Clinic.class
+clinic\Physiotherapist.class
+clinic\Patient.class
+clinic\Appointment.class
+clinic\ClinicGUI.class

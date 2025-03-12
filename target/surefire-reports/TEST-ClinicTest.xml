@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ClinicTest" time="0.093" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="23"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\ASSUREX\Documents\NetBeansProjects\Boost_Physio_Clinic\target\test-classes;C:\Users\ASSUREX\Documents\NetBeansProjects\Boost_Physio_Clinic\target\classes;C:\Users\ASSUREX\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.3\junit-jupiter-api-5.10.3.jar;C:\Users\ASSUREX\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\ASSUREX\.m2\repository\org\junit\platform\junit-platform-commons\1.10.3\junit-platform-commons-1.10.3.jar;C:\Users\ASSUREX\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\ASSUREX\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.3\junit-jupiter-params-5.10.3.jar;C:\Users\ASSUREX\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.3\junit-jupiter-engine-5.10.3.jar;C:\Users\ASSUREX\.m2\repository\org\junit\platform\junit-platform-engine\1.10.3\junit-platform-engine-1.10.3.jar;C:\Users\ASSUREX\.m2\repository\name\bychkov\junit5-extensions\0.1.0\junit5-extensions-0.1.0.jar;C:\Users\ASSUREX\.m2\repository\org\beigesoft\beige-pdfwriter\1.0.3\beige-pdfwriter-1.0.3.jar;C:\Users\ASSUREX\.m2\repository\org\beigesoft\beige-docwriter\1.0.3\beige-docwriter-1.0.3.jar;C:\Users\ASSUREX\.m2\repository\org\beigesoft\beige-logging-base\1.0.3\beige-logging-base-1.0.3.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\barcodes\9.0.0\barcodes-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\font-asian\9.0.0\font-asian-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\forms\9.0.0\forms-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\hyph\9.0.0\hyph-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\io\9.0.0\io-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\commons\9.0.0\commons-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\kernel\9.0.0\kernel-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\layout\9.0.0\layout-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\pdfa\9.0.0\pdfa-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\sign\9.0.0\sign-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\styled-xml-parser\9.0.0\styled-xml-parser-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\svg\9.0.0\svg-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\bouncy-castle-connector\9.0.0\bouncy-castle-connector-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\pdfua\9.0.0\pdfua-9.0.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="23"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-23\bin"/>
+    <property name="sun.java.command" value="C:\Users\ASSUREX\AppData\Local\Temp\surefire4901598178209497573\surefirebooter-20250308183555119_3.jar C:\Users\ASSUREX\AppData\Local\Temp\surefire4901598178209497573 2025-03-08T18-35-54_946-jvmRun1 surefire-20250308183555119_1tmp surefire_0-20250308183555119_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="ClinicTest"/>
+    <property name="surefire.test.class.path" value="C:\Users\ASSUREX\Documents\NetBeansProjects\Boost_Physio_Clinic\target\test-classes;C:\Users\ASSUREX\Documents\NetBeansProjects\Boost_Physio_Clinic\target\classes;C:\Users\ASSUREX\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.3\junit-jupiter-api-5.10.3.jar;C:\Users\ASSUREX\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\ASSUREX\.m2\repository\org\junit\platform\junit-platform-commons\1.10.3\junit-platform-commons-1.10.3.jar;C:\Users\ASSUREX\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\ASSUREX\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.3\junit-jupiter-params-5.10.3.jar;C:\Users\ASSUREX\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.3\junit-jupiter-engine-5.10.3.jar;C:\Users\ASSUREX\.m2\repository\org\junit\platform\junit-platform-engine\1.10.3\junit-platform-engine-1.10.3.jar;C:\Users\ASSUREX\.m2\repository\name\bychkov\junit5-extensions\0.1.0\junit5-extensions-0.1.0.jar;C:\Users\ASSUREX\.m2\repository\org\beigesoft\beige-pdfwriter\1.0.3\beige-pdfwriter-1.0.3.jar;C:\Users\ASSUREX\.m2\repository\org\beigesoft\beige-docwriter\1.0.3\beige-docwriter-1.0.3.jar;C:\Users\ASSUREX\.m2\repository\org\beigesoft\beige-logging-base\1.0.3\beige-logging-base-1.0.3.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\barcodes\9.0.0\barcodes-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\font-asian\9.0.0\font-asian-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\forms\9.0.0\forms-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\hyph\9.0.0\hyph-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\io\9.0.0\io-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\commons\9.0.0\commons-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\kernel\9.0.0\kernel-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\layout\9.0.0\layout-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\pdfa\9.0.0\pdfa-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\sign\9.0.0\sign-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\styled-xml-parser\9.0.0\styled-xml-parser-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\svg\9.0.0\svg-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\bouncy-castle-connector\9.0.0\bouncy-castle-connector-9.0.0.jar;C:\Users\ASSUREX\.m2\repository\com\itextpdf\pdfua\9.0.0\pdfua-9.0.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ASSUREX"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-01-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-23"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\ASSUREX\Documents\NetBeansProjects\Boost_Physio_Clinic"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\ASSUREX\AppData\Local\Temp\surefire4901598178209497573\surefirebooter-20250308183555119_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="23.0.2+7-58"/>
+    <property name="user.name" value="ASSUREX"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-24\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\ASSUREX\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ASSUREX\AppData\Local\Temp\"/>
+    <property name="java.version" value="23.0.2"/>
+    <property name="user.dir" value="C:\Users\ASSUREX\Documents\NetBeansProjects\Boost_Physio_Clinic"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-23\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Java\jdk-23;C:\Program Files\Java\jdk-23\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Redis\;C:\Program Files\MongoDB\Server\7.0;C:\Program Files\Git\cmd;C:\Users\ASSUREX\AppData\Local\Microsoft\WindowsApps;C:\Users\ASSUREX\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ASSUREX\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\JetBrains\PyCharm Community Edition 2023.3.4\bin;;C:\Users\ASSUREX\AppData\Local\Programs\mongosh\;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="23.0.2+7-58"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="67.0"/>
+  </properties>
+  <testcase name="testRemovePatient" classname="ClinicTest" time="0.03"/>
+  <testcase name="testBookAppointment" classname="ClinicTest" time="0.004"/>
+  <testcase name="testSearchByExpertise" classname="ClinicTest" time="0.002"/>
+  <testcase name="testAddPatient" classname="ClinicTest" time="0.002"/>
+  <testcase name="testSearchByName" classname="ClinicTest" time="0.002"/>
+  <testcase name="testCancelAppointment" classname="ClinicTest" time="0.002"/>
+</testsuite>
